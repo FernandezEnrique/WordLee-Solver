@@ -51,4 +51,5 @@ Option: 5
 # Bibliography
 
 Spanish words file: [olea GitHub](https://github.com/olea/lemarios/)
+
 English words file: [dwyl GitHub](https://github.com/dwyl/english-words)
